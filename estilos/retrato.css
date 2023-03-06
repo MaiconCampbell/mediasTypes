@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+/* Aparelho retrato */
+
+body {
+  background-image: url(../img/pg_empe.webp);
+  background-position: center center;
+}
